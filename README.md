@@ -1,3 +1,2 @@
 # aRTISTIC.gREIEM
-# hi this is my artistic project
-# wellcome 
+# hi this is my artistic space!
